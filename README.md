@@ -16,7 +16,7 @@
 
  💬 Ask me about **Node.js, React, Web development... or anything [here](https://github.com/dennisomari/dennisomari/issues)**
 
- ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
+ ⚡ Fun fact **QR codes, invented in 1994 by Denso Wave engineer Masahiro Hara, initially tracked automotive parts**
  
  </div> 
  
@@ -24,7 +24,7 @@
   <a href="mailto:dennisomari310@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/dennisomari" target="https://linkedin.com/in/dennisomari">
+  <a href="https://linkedin.com/in/dennisomari" target="https://www.linkedin.com/in/0b4b0514sf3a/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://dennisomari.com" target="dennisomari.com">
@@ -66,7 +66,7 @@
 <div align="center">
   <h2>💪 My Contributions 💪</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/dennisomari/dennisomari/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>

@@ -79,9 +79,9 @@
 <br>
 <div align=center>
   <img width=390 src="[![GitHub Streak](https://streak-stats.demolab.com?user=dennisomari&theme=radical&border_radius=20)](https://git.io/streak-stats)" alt="streak stats"/>
-  <img width=390 src="https://streak-stats.demolab.com/api?username=salesp07&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=dennisomari&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="GitHub Stats" />
   <br/>
-  <img width=325 align="center" src="https://streak-stats.demolab.com/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+  <img align= "center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dennisomari&layout=compact&langs_count=5&theme=dracula" height="150" alt="Top Languages" />
 </div>
 
 <br/><br/>
